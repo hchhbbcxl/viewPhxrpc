@@ -1,0 +1,6 @@
+[server]
+uid = 123
+password = 456
+[client]
+uid = 321
+password = 654
